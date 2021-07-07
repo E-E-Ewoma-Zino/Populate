@@ -1,0 +1,17 @@
+{
+  "name": "populate",
+  "version": "1.0.0",
+  "description": "learning how to populate in mongoose",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "author": "Ewoma Zino",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.6.9",
+    "mongoose": "^5.13.0",
+    "nodemon": "^2.0.9"
+  }
+}
